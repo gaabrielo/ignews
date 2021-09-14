@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img alt="ignews" title="ignews" src="/ignews.png" />
+</h1>
 
 ## ✨ Technologies
 
