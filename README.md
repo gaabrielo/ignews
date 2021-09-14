@@ -18,7 +18,8 @@ News blog about React world, full integrated with Stripe for handle payments, Fa
 
 ## 🚀 How to run
 
-- `git clone [--template=<template_directory>]`
-- `npm run dev`
+- Clone the repository `git clone [--template=<template_directory>]`
+- Install dependencies with `yarn`
+- Start the server with `yarn dev`
 
 Now access [`localhost:3000`](http://localhost:3000) from your browser.
