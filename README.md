@@ -4,7 +4,7 @@
 
 ## ✨ Technologies
 
-Application developed with the following technologies:
+App was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org)
 - [Next.js](https://nextjs.org)
